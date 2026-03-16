@@ -1,3 +1,5 @@
+package Exercícios;
+
 public class Estudo{
 
     public static void main(String[] args) {
