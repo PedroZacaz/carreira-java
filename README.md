@@ -1,10 +1,10 @@
-# ☕ Carreira Java - Alura
+# Carreira Java - Alura
 
 Este repositório contém meus estudos, anotações e projetos desenvolvidos durante a **Formação Java** da [Alura](https://www.alura.com.br/cursos-online-programacao/java). O objetivo é registrar minha evolução desde a lógica de programação até o desenvolvimento de APIs robustas.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 * **Linguagem:** Java 21
 * **IDE:** IntelliJ IDEA / Eclipse
 * **Banco de Dados:** MySQL / PostgreSQL
@@ -13,7 +13,7 @@ Este repositório contém meus estudos, anotações e projetos desenvolvidos dur
 
 ---
 
-## 📚 Conteúdo da Formação
+## Conteúdo da Formação
 
 Abaixo, os módulos que compõem minha jornada de aprendizado:
 
